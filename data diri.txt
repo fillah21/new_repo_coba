@@ -2,3 +2,9 @@ Nama	: Fillah Zaki Alhaqi
 NIM	: 190511071
 Alamat	: Cilimus, Kuningan
 Tugas	: Membuat Rancangan DB, membuat fitur pelayanan, dan membuat fitur tes
+
+Nama	: Ahmad Nur Cahyadi
+NIM	: 190511094
+Alamat	: Kepuh, Palimanan
+Tugas	: Membuat fitur login, register admin, user, membuat fitur manajemen pengguna (CRUD)
+
