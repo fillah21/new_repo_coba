@@ -1,0 +1,4 @@
+Nama	: Fillah Zaki Alhaqi
+NIM	: 190511071
+Alamat	: Cilimus, Kuningan
+Tugas	: Membuat Rancangan DB, membuat fitur pelayanan, dan membuat fitur tes
