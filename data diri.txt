@@ -13,7 +13,7 @@ NIM     : 190511025
 Alamat  : Kaduela, Kuningan
 Tugas   : Membuat semua fitur terkait tes
 
-Nama    : Danu Sunandi
-NIM     : 123456789
+Nama    : Alvin Nugraha 
+NIM     : 190511069
 Alamat  : Karangsari, Cirebon
-Tugas   : membuat alvin junior
+Tugas   : membuat fitur bagian pelayanan 
